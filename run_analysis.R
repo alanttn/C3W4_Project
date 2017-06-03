@@ -3,6 +3,8 @@
 ####################################################################
 
 # DEFINE CONSTANT
+### ENTER YOUR OWN PATH HERE, OTHERWISE SOURCE THE FILE FROM D:\ ###
+WORKING_DIR<-"D:\\" 
 LOADOPTIONS_TABLE<-"TABLE"
 
 
